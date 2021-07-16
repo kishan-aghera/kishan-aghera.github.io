@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.120c83ba.chunk.css",
-    "main.js": "/static/js/main.7dab69f5.chunk.js",
-    "main.js.map": "/static/js/main.7dab69f5.chunk.js.map",
+    "main.css": "/static/css/main.883fe016.chunk.css",
+    "main.js": "/static/js/main.f02f89e6.chunk.js",
+    "main.js.map": "/static/js/main.f02f89e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.78fae268.js",
     "runtime-main.js.map": "/static/js/runtime-main.78fae268.js.map",
     "static/js/2.8247c5e9.chunk.js": "/static/js/2.8247c5e9.chunk.js",
     "static/js/2.8247c5e9.chunk.js.map": "/static/js/2.8247c5e9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.120c83ba.chunk.css.map": "/static/css/main.120c83ba.chunk.css.map",
+    "static/css/main.883fe016.chunk.css.map": "/static/css/main.883fe016.chunk.css.map",
     "static/js/2.8247c5e9.chunk.js.LICENSE.txt": "/static/js/2.8247c5e9.chunk.js.LICENSE.txt",
     "static/media/about_anime.986764c2.gif": "/static/media/about_anime.986764c2.gif",
     "static/media/about_vector.c42fe3db.png": "/static/media/about_vector.c42fe3db.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.78fae268.js",
     "static/js/2.8247c5e9.chunk.js",
-    "static/css/main.120c83ba.chunk.css",
-    "static/js/main.7dab69f5.chunk.js"
+    "static/css/main.883fe016.chunk.css",
+    "static/js/main.f02f89e6.chunk.js"
   ]
 }
