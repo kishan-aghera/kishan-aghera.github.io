@@ -1,5 +1,5 @@
 import { Fragment } from 'react';
-import { HashRouter, Route } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 import './App.css';
 
@@ -15,13 +15,8 @@ import Contact from './Contact/Contact';
 const App = () => {
   return (
     <Fragment>
-      <HashRouter>
+      <BrowserRouter>
         <NavBar />
-        <Route
-          path="/"
-          component={Home}
-          exact
-        />
         <Route
           path="/about"
           component={About}
@@ -42,7 +37,12 @@ const App = () => {
           component={Contact}
           exact
         />
-      </HashRouter>
+        <Route
+          path="/"
+          component={Home}
+          exact
+        />
+      </BrowserRouter>
     </Fragment>
   );
 }
