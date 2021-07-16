@@ -1,10 +1,10 @@
-import React, { Fragment } from 'react'
+import React from 'react';
 
 const Contact = () => {
 	return (
-		<Fragment>
+		<div className="section-container">
 			In Contact Page
-		</Fragment>
+		</div>
 	)
 }
 

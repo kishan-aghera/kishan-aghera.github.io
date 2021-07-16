@@ -1,10 +1,10 @@
-import React, { Fragment } from 'react'
+import React from 'react';
 
 const Skills = () => {
 	return (
-		<Fragment>
+		<div className="section-container">
 			In Skills Page
-		</Fragment>
+		</div>
 	)
 }
 
