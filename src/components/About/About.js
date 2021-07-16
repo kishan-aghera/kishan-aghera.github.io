@@ -29,7 +29,7 @@ const About = () => {
 
 					<h3 className="about-sub-head">Blogger</h3>
 					<p className="about-details">
-						Check out my first blog at
+						Check out my first blog
 						<a
 							target="_blank"
 							rel="noreferrer noopener"
