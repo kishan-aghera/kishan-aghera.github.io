@@ -24,7 +24,7 @@ const About = () => {
 
 					<h3 className="about-sub-head">Frontend Developer</h3>
 					<p className="about-details">
-						ReactJS Developer at Bacancy Technology
+						ReactJS Developer
 					</p>
 
 					<h3 className="about-sub-head">Blogger</h3>
