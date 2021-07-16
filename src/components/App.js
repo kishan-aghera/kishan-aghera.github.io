@@ -1,20 +1,21 @@
 import { Fragment } from 'react';
-import { BrowserRouter, Route } from 'react-router-dom';
+import { HashRouter, Route } from 'react-router-dom';
 
 import './App.css';
 
-import About from './About/About';
-import Contact from './Contact/Contact';
+import NavBar from './NavBar/NavBar';
+
 import Home from './Home/Home';
+import About from './About/About';
 import Projects from './Projects/Projects';
 import Skills from './Skills/Skills';
-import NavBar from './NavBar/NavBar';
+import Contact from './Contact/Contact';
 
 
 const App = () => {
   return (
     <Fragment>
-      <BrowserRouter>
+      <HashRouter>
         <NavBar />
         <Route
           path="/"
@@ -41,7 +42,7 @@ const App = () => {
           component={Contact}
           exact
         />
-      </BrowserRouter>
+      </HashRouter>
     </Fragment>
   );
 }
