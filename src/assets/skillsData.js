@@ -21,6 +21,6 @@ export const skillsData = [
 	},
 	{
 		name: 'Python',
-		logo: './python.png'
+		logo: 'https://github.com/kishan-aghera/kishan-aghera.github.io/blob/master/src/assets/python.png'
   }
 ];
