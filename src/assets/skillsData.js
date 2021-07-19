@@ -2,7 +2,7 @@ import html from './html.png';
 import css from './css.png';
 import js from './js.png';
 import react from './react.png';
-import ror from './ror.png';
+import ror from './ruby-on-rails.png';
 import python from './python.png';
 
 export const skillsData = [
