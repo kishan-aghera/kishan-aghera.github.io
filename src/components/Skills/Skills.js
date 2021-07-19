@@ -28,7 +28,7 @@ const Skills = () => {
 
 			<FooterLink
 				phrase="Get in "
-				link="touch."
+				link="touch"
 				toAddress="/contact"
 			/>
 

@@ -29,12 +29,12 @@ const About = () => {
 
 					<h3 className="about-sub-head">Blogger</h3>
 					<p className="about-details">
-						Check out my first blog
+						Check out my first blog&nbsp;
 						<a
 							target="_blank"
 							rel="noreferrer noopener"
 							href="https://www.bacancytechnology.com/blog/cocoon-gem-example-in-rails-6"
-						> here.
+						>here
 						</a>
 					</p>
 				</div>
