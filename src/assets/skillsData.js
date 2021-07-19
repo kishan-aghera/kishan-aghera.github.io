@@ -1,26 +1,33 @@
+import html from './html.png';
+import css from './css.png';
+import js from './js.png';
+import react from './react.png';
+import ror from './ror.png';
+import python from './python.png';
+
 export const skillsData = [
 	{
 		name: 'HTML',
-		logo: '../assets/html.png', // https://github.com/kishan-aghera/kishan-aghera.github.io/blob/master/src
+		logo: html
 	},
 	{
 		name: 'CSS',
-		logo: '../assets/css.png',
+		logo: css
 	},
 	{
 		name: 'JavaScript',
-		logo: '../assets/js.png',
+		logo: js
 	},
 	{
 		name: 'React',
-		logo: '../assets/react.png',
+		logo: react
 	},
 	{
 		name: 'Ruby on Rails',
-		logo: '../assets/ror.png',
+		logo: ror
 	},
 	{
 		name: 'Python',
-		logo: '../assets/python.png'
+		logo: python
   }
 ];
