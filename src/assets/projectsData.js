@@ -6,38 +6,73 @@ import proj5 from './proj5.PNG';
 
 export const projectsData = [
     {
-        projectName: 'Name It!',
+        projectName: 'College Inquiry Chatbot',
         projectDescription:
-            'Do you find it difficult to name your projects or ventures? Fear not! Check out this cool name suggestion application which will help you find the best name for your next project, venture, or startup. Keep building!',
+            'This chatbot was made as a final year project of my engineering with the help of Rasa framework.',
         imageUrl: proj1,
-        projectUrl: 'http://theleanprogrammer.com/name-it/',
+        projectUrl: 'https://github.com/kishan-aghera/Chatbot',
     },
     {
-        projectName: 'FlashType',
+        projectName: 'Discussion Forum',
         projectDescription:
-            'Having a good typing speed will always help you as a developer! Here, I present you the typing speed test application, where you can check your typing speed (in wpm) and share the results with your friends too.',
+            'In this, you can as an admin, create a discussion group and a user can post his/her ideas. It is made with Ruby on Rails framework.',
         imageUrl: proj2,
-        projectUrl: 'http://theleanprogrammer.com/flashtype/',
+        projectUrl: 'https://github.com/kishan-aghera/Discussion-Forum',
     },
     {
-        projectName: 'Flexbox Cheatsheet',
+        projectName: 'Food Order App',
         projectDescription:
-            'A frontend web developer must know the concepts of CSS Flexbox. So here is a CSS Flexbox cheatsheet, built using CSS Flexbox. Learn the concepts of flexbox by building a cheatsheet which is built using flexbox. Super cool!',
+            'It is a simple food ordering app in which user can order a food with multiple quantities. It is made with React framework.',
         imageUrl: proj3,
-        projectUrl: 'http://theleanprogrammer.com/flex/',
+        projectUrl: 'https://github.com/kishan-aghera/food-order-app',
     },
     {
-        projectName: 'PokeDex',
+        projectName: 'Twitter Clone',
         projectDescription:
-            "Pokemon was a huge part of our childhood, wasn't it? Talking about pokemon brings back so many memories, but do you remember the details of each pokemon? Probably No! So here I bring you a pokedex to check all pokemons :)",
+            "This is made with Ruby on Rails framework.",
         imageUrl: proj4,
-        projectUrl: 'http://theleanprogrammer.com/pokedex/',
+        projectUrl: 'https://github.com/kishan-aghera/Twitter-Clone',
     },
     {
-        projectName: 'Portfolio Website',
+        projectName: 'Dribbble Clone',
         projectDescription:
-            'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you a tutorial to make your own website.',
+            'This is made with Ruby on Rails framework.',
         imageUrl: proj5,
-        projectUrl: 'http://madhavbahl.tech/portfolio/',
+        projectUrl: 'https://github.com/kishan-aghera/Dribbble-Clone',
+    },
+    {
+        projectName: 'Number Match Game',
+        projectDescription:
+            'It is a simple game in which user has to write no of objects shown in the images provided in time constraints. It is made with HTML, CSS and JS.',
+        imageUrl: proj5,
+        projectUrl: 'https://github.com/kishan-aghera/NumberMatchGame',
+    },
+    {
+        projectName: 'Guess the Number Game',
+        projectDescription:
+            'It is a simple game in which user has to guess the number. It is made with HTML, CSS and JS.',
+        imageUrl: proj5,
+        projectUrl: 'https://github.com/kishan-aghera/GuessTheNumberGame',
+    },
+    {
+        projectName: 'Running Tracker',
+        projectDescription:
+            'In this app, you can track your running time. It is made with HTML, CSS and JS.',
+        imageUrl: proj5,
+        projectUrl: 'https://github.com/kishan-aghera/RunningTracker',
+    },
+    {
+        projectName: 'Tip Calculator',
+        projectDescription:
+            'It is made with HTML, CSS and JS.',
+        imageUrl: proj5,
+        projectUrl: 'https://github.com/kishan-aghera/TipCalculator',
+    },
+    {
+        projectName: 'Todo List',
+        projectDescription:
+            'It is a Authentication + CRUD app made with frontend in React and Backend API in Ruby on Rails.',
+        imageUrl: proj5,
+        projectUrl: 'https://kishan-aghera.github.io/todo-list-frontend',
     },
 ];
