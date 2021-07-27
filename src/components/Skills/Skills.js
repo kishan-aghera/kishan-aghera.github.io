@@ -14,7 +14,7 @@ const Skills = () => {
 		<div className="section-container">
 			<Header
 				heading="My Skills"
-				details="My skills description."
+				details="React + Rails Engineer."
 			/>
 
 			<div className="skill-card-container">
@@ -28,7 +28,7 @@ const Skills = () => {
 
 			<FooterLink
 				phrase="Get in "
-				link="touch"
+				link="touch."
 				toAddress="/contact"
 			/>
 
