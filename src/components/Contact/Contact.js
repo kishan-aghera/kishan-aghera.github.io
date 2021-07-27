@@ -14,7 +14,7 @@ const Contact = () => {
 		<div className="section-container">
 			<Header
 				heading="Get in touch."
-				details="Interested to collaborate? Feel free to drop me an email."
+				details="Want to Hire me?"
 			/>
 
 			<div className="contact-form-container">
