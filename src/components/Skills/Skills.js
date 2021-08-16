@@ -14,7 +14,7 @@ const Skills = () => {
 		<div className="section-container">
 			<Header
 				heading="My Skills"
-				details="React + Rails Engineer."
+				details="Ruby on Rails Engineer."
 			/>
 
 			<div className="skill-card-container">

@@ -12,7 +12,7 @@ const Home = () => {
           Welcome to my portfolio!
         </h1>
         <p>
-          Hello, my name is Kishan Aghera, a React + Rails developer.
+          Hello, my name is Kishan Aghera, a Ruby on Rails developer.
         </p>
       </div>
 

@@ -12,7 +12,7 @@ const About = () => {
 		<div className="section-container">
 			<Header
 				heading="About Me."
-				details="Software Engineer | Ruby on Rails | ReactJS"
+				details="Software Engineer | Ruby on Rails"
 			/>
 
 			<div className="about-main">
@@ -22,10 +22,10 @@ const About = () => {
 						Ruby on Rails Developer at Bacancy Technology
 					</p>
 
-					<h3 className="about-sub-head">Frontend Developer</h3>
+					{/* <h3 className="about-sub-head">Frontend Developer</h3>
 					<p className="about-details">
 						ReactJS Developer
-					</p>
+					</p> */}
 
 					<h3 className="about-sub-head">Blogger</h3>
 					<p className="about-details">
